@@ -10,9 +10,9 @@ Tratemos de revisar algunas de estas preguntas:
 - ¿Qué nos dicen los textos?
 
 Lo fundamental de este taller, y en general de la Lingüística Computacional, es responder este tipo de preguntas en el espacio que se forma en las interacciones entre Humanidades, Lingüística, Computación y Datos. 
-Pensemos, un momento, la siguiente pregunta:
+Pensemos, un momento, las siguientes preguntas:
 
-**Pregunta-ejercicio!** ¿Cómo podríamos describir la influencia de ciertas instituciones, por ejemplo la RAE, en el uso de ciertas palabras, en vez de otras?
+**Preguntas-ejercicio!** ¿Cómo podríamos describir la influencia de ciertas instituciones, por ejemplo la RAE, en el uso de ciertas palabras, en vez de otras? ¿Qué materiales permitirían resolver este problema?
 
 ## Google ngrams!
 
