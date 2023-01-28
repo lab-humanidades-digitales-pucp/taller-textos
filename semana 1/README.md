@@ -19,17 +19,10 @@ entregó una lista de palabras incorrectas, que debían usarse de una forma **co
 - iniquo &#8594; inicuo 
 - obliquo &#8594; oblicuo 
 
-Tratemos de revisar algunas de estas preguntas:
-
-- ¿Qué ocurre cuando una nueva convención social reemplaza a una antigua? 
-- ¿De qué forma influyen ciertas instituciones normativas? 
-- ¿Es posible cuantificar este proceso? 
-- ¿Qué nos dicen los textos?
+**Preguntas!** ¿Cómo podríamos describir la influencia de ciertas instituciones, por ejemplo la RAE, en el uso de ciertas palabras, en vez de otras? ¿Qué materiales permitirían resolver este problema?
 
 Lo fundamental de este taller, y en general de la Lingüística Computacional, es responder este tipo de preguntas en el espacio que se forma en las interacciones entre Humanidades, Lingüística, Computación y Datos. 
 Pensemos, un momento, las siguientes preguntas:
-
-**Preguntas-ejercicio!** ¿Cómo podríamos describir la influencia de ciertas instituciones, por ejemplo la RAE, en el uso de ciertas palabras, en vez de otras? ¿Qué materiales permitirían resolver este problema?
 
 ## Google ngrams!
 
@@ -39,6 +32,13 @@ Para este [trabajo](https://www.pnas.org/doi/10.1073/pnas.1721059115), es posibl
 xxx
 
 ## El paper!
+
+Tratemos de revisar algunas de estas preguntas:
+
+- ¿Qué ocurre cuando una nueva convención social reemplaza a una antigua? 
+- ¿De qué forma influyen ciertas instituciones normativas? 
+- ¿Es posible cuantificar este proceso? 
+- ¿Qué nos dicen los textos?
 
 El [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115) que hemos citado se enfoca, entonces, en tres tipos de **regulaciones** sobre el uso del lenguaje:
 
