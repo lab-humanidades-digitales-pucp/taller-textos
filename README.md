@@ -1,7 +1,7 @@
 # Taller de análisis automático de textos
 
-El taller tiene dos objetivos, uno explícito y el otro encubierto. El objetivo explícito es presentar técnicas automáticas (o simplemente, digitales) para el tratamiento de textos mediante computadores. el objetivo encubierto, quizás más importante que el primero, es introducir a las/los estudiantes al lenguaje de programación Python. 
-
+El taller tiene dos objetivos, uno explícito y el otro encubierto. El objetivo explícito es presentar técnicas automáticas (o simplemente, digitales) para el tratamiento de textos mediante computadores. El objetivo encubierto, quizás más importante que el primero, es introducir a las/los estudiantes al lenguaje de programación Python. 
+Este taller surge como una iniciativa del **Laboratorio de Humanidades Digitales**, Facultad de Letras y Ciencias Humanas, PUCP.
 # Contenidos
 - Textos y corpus (1 semana)
     - Google ngrams: algunos experimentos
