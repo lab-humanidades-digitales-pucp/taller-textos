@@ -21,8 +21,7 @@ entregó una lista de palabras incorrectas, que debían usarse de una forma **co
 
 **Preguntas!** ¿Cómo podríamos describir la influencia de ciertas instituciones, por ejemplo la RAE, en el uso de ciertas palabras, en vez de otras? ¿Qué materiales permitirían resolver este problema?
 
-Lo fundamental de este taller, y en general de la Lingüística Computacional, es responder este tipo de preguntas en el espacio que se forma en las interacciones entre Humanidades, Lingüística, Computación y Datos. 
-Pensemos, un momento, las siguientes preguntas:
+Para este **taller**, y en general para la Lingüística Computacional, lo fundamental es responder este tipo de preguntas en el espacio que se forma en las interacciones entre Humanidades, Lingüística, Computación y Datos.
 
 ## Google ngrams!
 
