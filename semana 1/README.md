@@ -2,10 +2,10 @@
 
 ## A modo de **introducción**
 
-En 1815, la Real Academia Española (RAE, de ahora en adelante) introdujo una de tantas reformas de su historia. En esta, como ocurre cada cierto tiempo, la RAE
-entregó una lista de palabras incorrectas, que debían usarse de una forma **correcta**. Por ejemplo, en la lista siguiente a la izquierda se muestra la palabra incorrecta, al derecha como **debe decirse:**
+En 1815, la **Real Academia Española** (**RAE**, de ahora en adelante) introdujo una de tantas reformas de su historia. En esta, como ocurre cada cierto tiempo, la **RAE**
+entregó una lista de **palabras incorrectas**, que debían usarse de una forma **correcta**. Por ejemplo, en la lista siguiente a la izquierda se muestra la palabra incorrecta, al derecha como **debe decirse:**
 
-- antiquario &#8594; anticuario 
+- antiquario **&#8594;** anticuario 
 - quaderno &#8594; cuaderno 
 - quadro &#8594; cuadro 
 - quando &#8594; cuando 
