@@ -23,8 +23,14 @@ a la derecha como **debe decirse:**
 **Preguntas!** ¿Cómo podríamos describir la influencia de ciertas instituciones, por ejemplo la RAE, en el uso de ciertas palabras en vez de otras? 
 ¿Qué materiales permitirían resolver este problema? ¿Qué técnicas (computacionales) podrían usarse?
 
-Para este **taller**, y en general para la Lingüística Computacional, lo fundamental es responder este tipo de preguntas en el espacio que se forma en las interacciones entre Humanidades, 
+Para este **taller**, y en general para la **Lingüística Computacional**, lo fundamental es responder este tipo de preguntas en el espacio que se forma en las interacciones entre Humanidades, 
 Lingüística, Computación y Datos.
+
+## Google ngrams!
+
+xxx
+
+## El paper!
 
 En este [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115), se responden estas preguntas:
 
@@ -33,12 +39,6 @@ En este [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115), se responden 
 - ¿Es posible cuantificar este proceso? 
 
 Para responder esta pregunta, se utiliza [Google ngrams!](https://books.google.com/ngrams/)
-
-## Google ngrams!
-
-xxx
-
-## El paper!
 
 
 ![alt text](https://github.com/lab-humanidades-digitales-pucp/taller-textos/blob/main/semana%201/pnas.1721059115fig01.jpeg?raw=true)
