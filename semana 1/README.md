@@ -16,9 +16,9 @@ xxx
 
 El [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115) que hemos citado se enfoca, entonces, en tres tipos de **regulaciones** sobre el uso del lenguaje:
 
-A. xxx
-B. xxx
-C. ccc
+(1). xxx
+(2). xxx
+(3). ccc
 
 
 ![alt text](https://github.com/lab-humanidades-digitales-pucp/taller-textos/blob/main/semana%201/pnas.1721059115fig01.jpeg?raw=true)
