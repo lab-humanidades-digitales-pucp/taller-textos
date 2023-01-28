@@ -3,9 +3,10 @@
 ## A modo de **introducción**
 
 En 1815, la **Real Academia Española** (**RAE**, de ahora en adelante) introdujo una de tantas reformas de su historia. En esta, como ocurre cada cierto tiempo, la **RAE**
-entregó una lista de **palabras incorrectas**, que debían usarse de una forma **correcta**. Por ejemplo, en la lista siguiente a la izquierda se muestra la palabra incorrecta, al derecha como **debe decirse:**
+entregó una lista de **palabras incorrectas**, que debían usarse de una forma **correcta**. Por ejemplo, en la lista siguiente a la izquierda se muestra la palabra incorrecta, 
+a la derecha como **debe decirse:**
 
-- antiquario **&#8594;** anticuario 
+- antiquario &#8594; anticuario 
 - quaderno &#8594; cuaderno 
 - quadro &#8594; cuadro 
 - quando &#8594; cuando 
@@ -19,31 +20,25 @@ entregó una lista de **palabras incorrectas**, que debían usarse de una forma 
 - iniquo &#8594; inicuo 
 - obliquo &#8594; oblicuo 
 
-**Preguntas!** ¿Cómo podríamos describir la influencia de ciertas instituciones, por ejemplo la RAE, en el uso de ciertas palabras, en vez de otras? ¿Qué materiales permitirían resolver este problema?
+**Preguntas!** ¿Cómo podríamos describir la influencia de ciertas instituciones, por ejemplo la RAE, en el uso de ciertas palabras, en vez de otras? 
+¿Qué materiales permitirían resolver este problema? 
 
-Para este **taller**, y en general para la Lingüística Computacional, lo fundamental es responder este tipo de preguntas en el espacio que se forma en las interacciones entre Humanidades, Lingüística, Computación y Datos.
+Para este **taller**, y en general para la Lingüística Computacional, lo fundamental es responder este tipo de preguntas en el espacio que se forma en las interacciones entre Humanidades, 
+Lingüística, Computación y Datos.
 
-## Google ngrams!
-
-Para este [trabajo](https://www.pnas.org/doi/10.1073/pnas.1721059115), es posible responder estas preguntas revisando grandes cantidades de textos ¿Cómo hacemos eso? 
-
-
-xxx
-
-## El paper!
-
-Tratemos de revisar algunas de estas preguntas:
+En este [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115), se responden estas preguntas:
 
 - ¿Qué ocurre cuando una nueva convención social reemplaza a una antigua? 
 - ¿De qué forma influyen ciertas instituciones normativas? 
 - ¿Es posible cuantificar este proceso? 
-- ¿Qué nos dicen los textos?
 
-El [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115) que hemos citado se enfoca, entonces, en tres tipos de **regulaciones** sobre el uso del lenguaje:
+Para responder esta pregunta, se utiliza [Google ngrams!](https://books.google.com/ngrams/)
 
-- xxx
-- xxx
-- ccc
+## Google ngrams!
+
+xxx
+
+## El paper!
 
 
 ![alt text](https://github.com/lab-humanidades-digitales-pucp/taller-textos/blob/main/semana%201/pnas.1721059115fig01.jpeg?raw=true)
