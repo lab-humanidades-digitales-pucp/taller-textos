@@ -1,9 +1,9 @@
-# Google ngrams! (y una introducción al análisis automático/cuantitativo de textos)
+# Introducción al análisis automático/cuantitativo de textos: Google ngrams! 
 
-## A modo de **introducción**
+## La RAE y cambios en el lenguaje
 
 En 1815, la **Real Academia Española** (**RAE**, de ahora en adelante) introdujo una de tantas reformas de su historia. En esta, como ocurre cada cierto tiempo, la **RAE**
-entregó una lista de **palabras incorrectas**, que debían usarse de una forma **correcta**. Por ejemplo, en la lista siguiente a la izquierda se muestra la palabra incorrecta, 
+entregó una lista de **palabras incorrectas**, que debían usarse de una forma **correcta**. Por ejemplo, en la lista siguiente se muestra a la izquierda la palabra incorrecta, 
 a la derecha como **debe decirse:**
 
 - antiquario &#8594; anticuario 
@@ -20,8 +20,8 @@ a la derecha como **debe decirse:**
 - iniquo &#8594; inicuo 
 - obliquo &#8594; oblicuo 
 
-**Preguntas!** ¿Cómo podríamos describir la influencia de ciertas instituciones, por ejemplo la RAE, en el uso de ciertas palabras, en vez de otras? 
-¿Qué materiales permitirían resolver este problema? 
+**Preguntas!** ¿Cómo podríamos describir la influencia de ciertas instituciones, por ejemplo la RAE, en el uso de ciertas palabras en vez de otras? 
+¿Qué materiales permitirían resolver este problema? ¿Qué técnicas (computacionales) podrían usarse?
 
 Para este **taller**, y en general para la Lingüística Computacional, lo fundamental es responder este tipo de preguntas en el espacio que se forma en las interacciones entre Humanidades, 
 Lingüística, Computación y Datos.
