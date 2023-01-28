@@ -2,6 +2,23 @@
 
 ## A modo de **introducción**
 
+En 1815, la Real Academia Española (RAE, de ahora en adelante) introdujo una de tantas reformas de su historia. En esta, como ocurre cada cierto tiempo, la RAE
+entregó una lista de palabras incorrectas, que debían usarse de una forma **correcta**. Por ejemplo:
+
+– antiquario &#8594; anticuario 
+– quaderno &#8594; cuaderno 
+– quadro &#8594; cuadro 
+– quando &#8594; cuando 
+– quanto &#8594; cuanto 
+– quarto &#8594; cuarto 
+– quatro &#8594; cuatro 
+– quociente &#8594; cociente 
+– quota &#8594; cuota 
+– quotidiano &#8594; cotidiano 
+– Equador &#8594; Ecuador 
+– iniquo &#8594; inicuo 
+– obliquo &#8594; oblicuo 
+
 Tratemos de revisar algunas de estas preguntas:
 
 - ¿Qué ocurre cuando una nueva convención social reemplaza a una antigua? 
