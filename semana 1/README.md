@@ -21,6 +21,7 @@ Para este [trabajo](https://www.pnas.org/doi/10.1073/pnas.1721059115), es posibl
 
 xxx
 
+## El paper!
 
 El [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115) que hemos citado se enfoca, entonces, en tres tipos de **regulaciones** sobre el uso del lenguaje:
 
