@@ -9,21 +9,21 @@ la **Lingüística Computacional**, lo fundamental es responder este tipo de pre
 # Contenidos
 
 - Textos y corpus (1 semana)
-    - [Github](https://github.com), [Python](https://www.python.org/), [Jupyter notebooks!](https://jupyter.org/)
+    - [Github](https://github.com), [Github desktop](https://desktop.github.com/), [Python](https://www.python.org/), [Jupyter notebooks!](https://jupyter.org/)
     - [Google ngrams](https://books.google.com/ngrams/): algunos experimentos, ideas y nociones básicas
     - ¿Por qué Python para el análisis de textos?
-    - Nociones básicas de Python  
+    - Nociones básicas de **Python**  
         - ¿Qué es un lenguaje de programación?
-        - ¿Cómo aprendemos Python? ¿Python y Humanidades?
-- Elementos de Python y textos (2 semanas)
+        - ¿Cómo aprendemos **Python**? ¿**Python** y Humanidades?
+- Elementos de **Python** y textos (2 semanas)
     - Variables, listas, ciclos 
     - Manejo de archivos de texto
     - Type/tokens
     - Limpieza de textos
     - Problema: palabras más frecuentes de un texto
-- Nociones de procesamiento del lenguaje natural (NLP) (1 semana)
-    - Elementos de Python: diccionarios
-    - Librerías de Python para NLP
+- Nociones de procesamiento del lenguaje natural (**NLP**) (1 semana)
+    - Elementos de **Python**: diccionarios
+    - Librerías de **Python** para **NLP**
     - Conceptos de NLP 
 - Aplicaciones  (1 semana)
     - Elementos de Python: manejo de gráficos
