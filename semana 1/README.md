@@ -1,4 +1,8 @@
-# Introducción al análisis automático/cuantitativo de textos: Google ngrams! 
+# Introducción al análisis automático/cuantitativo de textos
+
+## Github
+
+## Python
 
 ## La RAE y cambios en el lenguaje
 

@@ -4,6 +4,7 @@ El taller tiene dos objetivos, uno explícito y el otro encubierto. El objetivo 
 Este taller surge como una iniciativa del **Laboratorio de Humanidades Digitales**, Facultad de Letras y Ciencias Humanas, PUCP.
 # Contenidos
 - Textos y corpus (1 semana)
+    - Github, Python, Jupyter notebooks!
     - Google ngrams: algunos experimentos
     - Conceptos básicos
     - ¿Poer qué Python para el análisis de textos?
