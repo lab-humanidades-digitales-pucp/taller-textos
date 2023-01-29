@@ -30,6 +30,9 @@ Lingüística, Computación y Datos.
 
 xxx
 
+[paper](https://github.com/lab-humanidades-digitales-pucp/taller-textos/blob/main/bibliograf%C3%ADa/ngram_paper_2010.pdf)
+
+
 ## El paper!
 
 En este [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115), se responden estas preguntas:
