@@ -7,7 +7,7 @@ Este taller surge como una iniciativa del **Laboratorio de Humanidades Digitales
     - Github, Python, Jupyter notebooks!
     - Google ngrams: algunos experimentos
     - Conceptos básicos
-    - ¿Poer qué Python para el análisis de textos?
+    - ¿Por qué Python para el análisis de textos?
     - Nociones básicas de Python  
 - Construcción de corpus (2 semanas)
     - Elementos de Python: variables, listas, ciclos for
