@@ -54,8 +54,9 @@ En este [paper](https://github.com/lab-humanidades-digitales-pucp/taller-textos/
 
 ### Algunos datos sobre **ngrams!**
 
-- xxx
-- xxx
+- Alrededor de un 4% de los libros alguna vez impresos
+- Espacio para preguntas a gran escala: ¿Qué opinan de esto?
+- Preguntas sobre obsolescencia [tecnológica](https://books.google.com/ngrams/graph?content=fax%2C%28vhs*100%29%2C%28beeper*100%29%2C%28dvd*10%29%2C%28disquete*10%29&year_start=1800&year_end=2019&corpus=es-2019&smoothing=3) 
 
 ## El paper!
 
