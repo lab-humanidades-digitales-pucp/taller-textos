@@ -50,7 +50,7 @@ a la derecha como **debe decirse:**
 ¿Qué pasa cuando tenemos 1° un corpus representativo de los usos históricos de una lengua; y 3° una forma simple de acceder a la información? ¿Qué nuevas preguntas surgen? 
 En este [paper](https://github.com/lab-humanidades-digitales-pucp/taller-textos/blob/main/bibliograf%C3%ADa/ngram_paper_2010.pdf), se proponen los **ngrams** de Google. 
 
-Vayamos al link de [ngrams](https://books.google.com/ngrams/). Revise este pequeño [tutorial](https://books.google.com/ngrams/info) para hacer búsquedas interesantes. 
+**Problema!** Vayamos al link de [ngrams](https://books.google.com/ngrams/). Revise este pequeño [tutorial](https://books.google.com/ngrams/info) para hacer búsquedas interesantes. 
 
 ## El paper!
 
