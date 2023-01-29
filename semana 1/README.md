@@ -22,6 +22,8 @@ Un ejercicio interesante!!!
 2. Vayan a [link a repositorio](https://github.com/javiervz/analisis-datos-magister). Ahí aprieten **Code -> Download ZIP**. Luego de descomprimir, abran el **notebook** que está en la carpeta. Hagan esto desde el navegador donde abrieron **jupyter** (**no** haciendo doble click directamente en la carpeta descomprimida!!!). En **linux:** [link útil](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 3. Vean si funciona :) Si funciona, pueden probar el código apretando el símbolo **play** o **run**. Vayan viendo qué entrega cada celda, eso puede servir mucho para partir.
 
+**Pregunta fundamental del taller!** ¿Cómo aprendemos Python (en un contexto de Humanidades)?
+
 ## La RAE y cambios en el lenguaje
 
 En 1815, la **Real Academia Española** (**RAE**, de ahora en adelante) introdujo una de tantas reformas de su historia. En esta, como ocurre cada cierto tiempo, la **RAE**
