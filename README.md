@@ -19,15 +19,15 @@ la **Lingüística Computacional**, lo fundamental es responder preguntas en el 
     - Variables, listas, ciclos 
     - Manejo de archivos de texto
     - Type/tokens
-    - Limpieza de textos
+    - [Limpieza de textos](https://www.nltk.org/)
     - Problema: palabras más frecuentes de un texto
 - Nociones de procesamiento del lenguaje natural (**NLP**) (1 semana)
     - Elementos de **Python**: diccionarios
-    - Librerías de **Python** para **NLP**
+    - Librerías de **Python** para **NLP**: [spaCy](https://spacy.io/), [stanza](https://stanfordnlp.github.io/stanza/)
     - Conceptos de NLP 
     - Consideraciones éticas sobre datos, NLP y Humanidades
 - Aplicaciones  (1 semana)
-    - Elementos de Python: manejo de gráficos
+    - Elementos de Python: manejo de [gráficos](https://matplotlib.org/)
     - Frecuencias de palabras en un corpus
     - Visualización de textos
     - Análisis (computacional) de textos en Humanidades
