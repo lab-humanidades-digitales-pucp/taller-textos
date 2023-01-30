@@ -65,7 +65,7 @@ En este [paper](https://github.com/lab-humanidades-digitales-pucp/taller-textos/
 - Instalar **Python**, a través de Anaconda!
 - Probar [Jupyter notebooks!](https://jupyter.org/)
 - Preparar un **mini-proyecto** sobre ngrams. Elija algún problema relacionado con área de interés y traté de visualizarlo temporalmente. Piense en algún muy acotado y pequeño, para ser
-realizado en un par de horas, y expuesto en 5 minutos. 
+realizado en (a lo más) un par de horas, y expuesto a la clase en 5 minutos. Trabajen en grupos de 2 o 3 personas. 
 - Revise este maravilloso [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115).
 
 ## El paper!
