@@ -1,10 +1,9 @@
 # Taller de análisis automático de textos en Humanidades
 
 El taller tiene dos objetivos, uno explícito y el otro encubierto. El objetivo explícito es presentar técnicas automáticas (o simplemente, digitales) para el tratamiento de textos mediante 
-computadores. El objetivo encubierto, quizás más importante que el primero, es introducir a las/los estudiantes al lenguaje de programación Python. 
+computadores. El objetivo encubierto, quizás más importante que el primero, es introducir a las/los estudiantes al lenguaje de programación Python. Este taller surge como una iniciativa del **Laboratorio de Humanidades Digitales**, Facultad de Letras y Ciencias Humanas, PUCP. 
 
-Este taller surge como una iniciativa del **Laboratorio de Humanidades Digitales**, Facultad de Letras y Ciencias Humanas, PUCP. Para este **taller**, y en general para 
-la **Lingüística Computacional**, lo fundamental es responder preguntas en el espacio que se forma en las interacciones entre Humanidades, Lingüística, Computación y Datos.
+Para este **taller**, y en general para la **Lingüística Computacional**, lo fundamental es responder preguntas en el espacio que se forma en las interacciones entre Humanidades, Lingüística, Computación y Datos.
 
 # Contenidos
 
