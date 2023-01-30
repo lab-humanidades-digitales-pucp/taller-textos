@@ -17,6 +17,7 @@ Humanidades, Lingüística, Computación y Datos. En vista de esto, el taller es
         - [¿Cómo aprendemos **Python**?](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) ¿**Python** y Humanidades?
 - Elementos de **Python** y textos (2 semanas)
     - [Elementos de Python](https://developers.google.com/edu/python): Variables, listas, ciclos 
+    - ¿Qué es un **texto** para un computador?
     - Manejo de archivos de texto: lectura/escritura
     - Type/tokens
     - [Limpieza de textos](https://www.nltk.org/)
