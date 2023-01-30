@@ -21,11 +21,13 @@ Humanidades, Lingüística, Computación y Datos. En vista de esto, el taller es
     - Type/tokens
     - [Limpieza de textos](https://www.nltk.org/)
     - Problema: **palabras importantes** de un texto
+    - Recapitulación 1: Python y textos en Humanidades
 - Nociones de procesamiento del lenguaje natural (**NLP**) (1 semana)
     - Elementos de **Python**: diccionarios
     - Librerías de **Python** para **NLP**: [spaCy](https://spacy.io/), [stanza](https://stanfordnlp.github.io/stanza/)
     - Conceptos de NLP 
     - Consideraciones éticas sobre datos, NLP y Humanidades
+    - Recapitulación 2: Python y textos en Humanidades
 - Aplicaciones  (1 semana)
     - Elementos de Python: manejo de [gráficos](https://matplotlib.org/)
     - Frecuencias de palabras en un corpus
