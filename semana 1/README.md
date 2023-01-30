@@ -60,6 +60,14 @@ En este [paper](https://github.com/lab-humanidades-digitales-pucp/taller-textos/
 - Preguntas sobre [dinámicas de olvido](https://books.google.com/ngrams/graph?content=1950%2C1970%2C1990&year_start=1800&year_end=2019&corpus=es-2012&smoothing=3) y 
 [también](https://books.google.com/ngrams/graph?content=sesentas%2Csetentas%2Cochentas%2Cnoventas&year_start=1800&year_end=2019&corpus=es-2012&smoothing=3)
 
+## Problemas pendientes
+
+- Instalar **Python**, a través de Anaconda!
+- Probar [Jupyter notebooks!](https://jupyter.org/)
+- Preparar un **mini-proyecto** sobre ngrams. Elija algún problema relacionado con área de interés y traté de visualizarlo temporalmente. Piense en algún muy acotado y pequeño, para ser
+realizado en un par de horas, y expuesto en 5 minutos. 
+- Revise este maravilloso [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115).
+
 ## El paper!
 
 En este [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115), se responden estas preguntas:
