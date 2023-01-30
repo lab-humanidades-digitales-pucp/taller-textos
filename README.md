@@ -16,8 +16,8 @@ Humanidades, Lingüística, Computación y Datos. En vista de esto, el taller es
         - ¿Qué es un lenguaje de programación?
         - ¿Cómo aprendemos **Python**? ¿**Python** y Humanidades?
 - Elementos de **Python** y textos (2 semanas)
-    - Variables, listas, ciclos 
-    - Manejo de archivos de texto
+    - Elementos de Python: Variables, listas, ciclos 
+    - Manejo de archivos de texto: lectura/escritura
     - Type/tokens
     - [Limpieza de textos](https://www.nltk.org/)
     - Problema: **palabras importantes** de un texto
