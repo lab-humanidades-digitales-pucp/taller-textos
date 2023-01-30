@@ -13,8 +13,8 @@ Humanidades, Lingüística, Computación y Datos. En vista de esto, el taller es
     - [Google ngrams](https://books.google.com/ngrams/): algunos experimentos, ideas y nociones básicas
     - ¿Por qué Python para el análisis de textos?
     - Nociones básicas de **Python**  
-        - ¿Qué es un lenguaje de programación?
-        - ¿Cómo aprendemos **Python**? ¿**Python** y Humanidades?
+        - [¿Qué es un lenguaje de programación?](https://learndigital.withgoogle.com/digitalgarage/course/basics-code)
+        - [¿Cómo aprendemos **Python**?](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) ¿**Python** y Humanidades?
 - Elementos de **Python** y textos (2 semanas)
     - Elementos de Python: Variables, listas, ciclos 
     - Manejo de archivos de texto: lectura/escritura
@@ -29,7 +29,7 @@ Humanidades, Lingüística, Computación y Datos. En vista de esto, el taller es
     - Consideraciones éticas sobre datos, NLP y Humanidades
     - Recapitulación 2: Python y textos en Humanidades
 - Aplicaciones  (1 semana)
-    - Elementos de Python: manejo de [gráficos](https://matplotlib.org/)
+    - Elementos de Python: manejo de [gráficos](https://matplotlib.org/) y más [gráficos](https://seaborn.pydata.org/)
     - Frecuencias de palabras en un corpus
     - Visualización de textos
     - Análisis (computacional) de textos en Humanidades
