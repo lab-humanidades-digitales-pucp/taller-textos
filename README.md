@@ -32,5 +32,5 @@ Humanidades, Lingüística, Computación y Datos. En vista de esto, el taller es
     - Elementos de Python: manejo de [gráficos](https://matplotlib.org/) y más [gráficos](https://seaborn.pydata.org/)
     - Frecuencias de palabras en un corpus
     - Visualización de textos
-    - Análisis (computacional) de textos en Humanidades
+    - **Análisis (computacional) de textos en Humanidades**
   
