@@ -11,7 +11,7 @@ Humanidades, Lingüística, Computación y Datos. En vista de esto, el taller es
 - Textos y corpus (1 semana)
     - [Github](https://github.com), [Github desktop](https://desktop.github.com/), [Python](https://www.python.org/), [Jupyter notebooks!](https://jupyter.org/)
     - [Google ngrams](https://books.google.com/ngrams/): algunos experimentos, ideas y nociones básicas
-    - ¿Por qué Python para el análisis de textos?
+    - ¿Por qué **Python** para el análisis de textos?
     - Nociones básicas de **Python**  
         - [¿Qué es un lenguaje de programación?](https://learndigital.withgoogle.com/digitalgarage/course/basics-code)
         - [¿Cómo aprendemos **Python**?](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) ¿**Python** y Humanidades?
