@@ -16,7 +16,7 @@ Humanidades, Lingüística, Computación y Datos. En vista de esto, el taller es
         - [¿Qué es un lenguaje de programación?](https://learndigital.withgoogle.com/digitalgarage/course/basics-code)
         - [¿Cómo aprendemos **Python**?](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) ¿**Python** y Humanidades?
 - Elementos de **Python** y textos (2 semanas)
-    - Elementos de Python: Variables, listas, ciclos 
+    - [Elementos de Python](https://developers.google.com/edu/python): Variables, listas, ciclos 
     - Manejo de archivos de texto: lectura/escritura
     - Type/tokens
     - [Limpieza de textos](https://www.nltk.org/)
@@ -26,7 +26,7 @@ Humanidades, Lingüística, Computación y Datos. En vista de esto, el taller es
     - Elementos de **Python**: diccionarios
     - Librerías de **Python** para **NLP**: [spaCy](https://spacy.io/), [stanza](https://stanfordnlp.github.io/stanza/)
     - [Conceptos de NLP](https://nlp.stanford.edu/fsnlp/) y Aprendizaje Automático
-    - Consideraciones éticas sobre datos, NLP y Humanidades
+    - Consideraciones éticas sobre datos, NLP y Humanidades: [Kate Crawford](https://www.katecrawford.net/pubs.html) 
     - Recapitulación 2: Python y textos en Humanidades
 - Aplicaciones  (1 semana)
     - Elementos de Python: manejo de [gráficos](https://matplotlib.org/) y más [gráficos](https://seaborn.pydata.org/)
