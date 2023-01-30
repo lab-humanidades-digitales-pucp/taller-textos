@@ -59,7 +59,7 @@ En este [paper](https://github.com/lab-humanidades-digitales-pucp/taller-textos/
 - Preguntas sobre obsolescencia [tecnológica](https://books.google.com/ngrams/graph?content=fax%2C%28vhs*100%29%2C%28beeper*100%29%2C%28dvd*10%29%2C%28disquete*10%29&year_start=1800&year_end=2019&corpus=es-2019&smoothing=3) 
 - Preguntas sobre [dinámicas de olvido](https://books.google.com/ngrams/graph?content=1950%2C1970%2C1990&year_start=1800&year_end=2019&corpus=es-2012&smoothing=3) y 
 [también](https://books.google.com/ngrams/graph?content=sesentas%2Csetentas%2Cochentas%2Cnoventas&year_start=1800&year_end=2019&corpus=es-2012&smoothing=3)
-- 
+
 ## El paper!
 
 En este [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115), se responden estas preguntas:
@@ -69,7 +69,6 @@ En este [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115), se responden 
 - ¿Es posible cuantificar este proceso? 
 
 Para responder esta pregunta, se utiliza [Google ngrams!](https://books.google.com/ngrams/)
-
 
 ![alt text](https://github.com/lab-humanidades-digitales-pucp/taller-textos/blob/main/semana%201/pnas.1721059115fig01.jpeg?raw=true)
 
