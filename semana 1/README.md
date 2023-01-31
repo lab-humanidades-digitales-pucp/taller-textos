@@ -1,4 +1,4 @@
-# Introducción al análisis automático/cuantitativo de textos
+# clase lunes
 
 ## Github
 
@@ -67,6 +67,8 @@ En este [paper](https://github.com/lab-humanidades-digitales-pucp/taller-textos/
 - Preparar un **mini-proyecto** sobre ngrams. Elija algún problema relacionado con área de interés y traté de visualizarlo temporalmente. Piense en algún muy acotado y pequeño, para ser
 realizado en (a lo más) un par de horas, y expuesto a la clase en 5 minutos. Trabajen en grupos de 2 o 3 personas. 
 - Revise este maravilloso [paper](https://www.pnas.org/doi/10.1073/pnas.1721059115).
+
+# clase miércoles
 
 ## El paper!
 
