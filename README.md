@@ -26,6 +26,7 @@ Humanidades, Lingüística, Computación y Datos. En vista de esto, el taller es
 - Nociones de procesamiento del lenguaje natural (**NLP**) (1 semana)
     - Elementos de **Python**: diccionarios
     - Librerías de **Python** para **NLP**: [spaCy](https://spacy.io/), [stanza](https://stanfordnlp.github.io/stanza/)
+    - **Desafío:** escaneos de textos!!! (OCR)
     - [Conceptos de NLP](https://nlp.stanford.edu/fsnlp/) y Aprendizaje Automático
     - Consideraciones éticas sobre datos, NLP y Humanidades: [Kate Crawford](https://www.katecrawford.net/pubs.html) 
     - **Recapitulación 2:** Python y textos en Humanidades
@@ -34,4 +35,3 @@ Humanidades, Lingüística, Computación y Datos. En vista de esto, el taller es
     - Frecuencias de palabras en un corpus
     - Visualización de textos
     - **Análisis (computacional) de textos en Humanidades**
-  
