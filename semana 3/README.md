@@ -18,7 +18,6 @@ a transformar el string **S** en un número que indica el número de veces que a
 
 #### Parte 1
 
-- Grupos de 2 o 3 personas (nadie solo :)).
 - Use materiales de oficina: cartulinas, lápices; es decir, **programe en papel &#x1F640;!**
 - Defina un string para cada nombre de los integrantes del grupo.
 - Recuerde que S.replace('old','new) cambia el substring 'old' de **S** en 'new'. Con esto, para cada para de nombres construya un pequeño código que transforme un nombre en otro.
