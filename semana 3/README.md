@@ -9,7 +9,7 @@
 - Use materiales de oficina: cartulinas, lápices.
 - Construyan un resumen de las variables que hemos mencionado: números, strings y listas.
 - En su resumen, ubiquen las variables de manera conveniente en el papel para que con flechas indique transformaciones entre variables. Por ejemplo, si aplicamos S.count('a') vamos
-a transformar el string **S** en un número. 
+a transformar el string **S** en un número que indica el número de veces que aparece **'a'** en **S**. 
 - Use un ejemplo que muestre todas las transformaciones. 
 - Exponga al curso brevemente a modo de clase. 
 - Tiempo: 30 minutos
