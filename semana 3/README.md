@@ -13,3 +13,13 @@ a transformar el string **S** en un número que indica el número de veces que a
 - Use un ejemplo que muestre todas las transformaciones. 
 - Exponga al curso brevemente a modo de clase. 
 - Tiempo: 30 minutos
+
+### Ejercicio 2: Códigos secretos 2 &#x1F916;!
+
+- Grupos de 2 o 3 personas (nadie solo :)).
+- Sin laptops! &#x1F640; Cómo? programación sin laptops? Sí! (bueno, puede servir para consulta de los contenidos que hemos visto).
+- Use materiales de oficina: cartulinas, lápices.
+- Transforme el string equivalente a su primer nombre (en mi caso, 'javier') en
+```python
+aa
+```
