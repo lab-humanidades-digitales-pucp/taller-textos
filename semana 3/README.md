@@ -5,7 +5,7 @@
 ### Ejercicio 1 &#x1F916;
 
 - Grupos de 2 o 3 personas (nadie solo :)).
-- Sin laptops! &#x1F640; Cómo? programación sin laptops? Sí! (bueno, puede servir para consulta de los contenidos que hemos visto, pero no para programar).
+- Sin laptops! &#x1F640; Cómo? programación sin laptops? Sí! (bueno, puede servir para consulta de los contenidos que hemos visto).
 - Use materiales de oficina: cartulinas, lápices.
 - Construyan un resumen de las variables que hemos mencionado: números, strings y listas.
 - En su resumen, ubiquen las variables de manera conveniente en el papel para que con flechas indique transformaciones entre variables. Por ejemplo, si aplicamos S.count('a') vamos
