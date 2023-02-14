@@ -20,8 +20,8 @@ a transformar el string **S** en un número que indica el número de veces que a
 #### Parte 1
 
 - Defina un **string** para cada **nombre** de los integrantes del grupo.
-- Recuerde que S.replace('old','new) cambia el substring 'old' de **S** en 'new'. Con esto, para cada para de nombres construya un pequeño código que transforme un nombre en otro.
-- Solo puede cambiar substrings de largo 1 o 2. 
+- Recuerde que S.replace('old','new') cambia el substring 'old' de **S** en 'new'. Con esto, para cada par de nombres construya un pequeño código que transforme un nombre en otro.
+- Solo puede cambiar substrings de largo 1, 2 o 3. 
 - **Tiempo:** 20 + 10 minutos!
 
 #### Parte 2
