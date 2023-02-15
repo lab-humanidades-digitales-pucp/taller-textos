@@ -39,9 +39,15 @@ a transformar el string **S** en un número que indica el número de veces que a
 
 #### Parte 1
 
-Explorar qué ocurre si usamos en el string **S**: S[0], S[1], S[2], S[3], S[4], S[-1]. ¿Por qué es posible hacer esto?
+Explorar qué ocurre si usamos en el string **S**: S[0], S[1], S[2], S[3], S[4], S[-1]. ¿Por qué es posible hacer esto? Pruebe:
+
+- Imprimir 'sí' cada vez que **S** termina en 'a'. 
+- Ejecutar S[0], luego S[1] y así sucesivamente. ¿Qué puede observar?
+- Definir un string vacío ''. Con esto, reconstruya **S** usando los índices. 
 
 #### Parte 2
 
-Considere el string **S = 'lima santiago'**. Define la variable **L** igual a la aplicación de split(' '). Explore L[0], L[1], L[2], L[3], L[4], L[-1]. ¿Por qué es posible hacer esto?
+Considere el string **S = 'lima santiago'**. Define la variable **L** igual a la aplicación de split(' '). Explore L[0], L[1], L[2], L[3], L[4], L[-1]. ¿Por qué es posible hacer esto? 
+Definir una lista vacía []. Con esto, reconstruya **L** usando los índices. 
+
 
