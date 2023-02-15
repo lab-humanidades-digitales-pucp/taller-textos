@@ -33,3 +33,15 @@ a transformar el string **S** en un número que indica el número de veces que a
 - Entregue ese código a otro grupo.
 - Ustedes deben decodificar los nombres de sus compañeros con el código recibido. 
 - **Tiempo:** 20 minutos
+
+### Ejercicio 3: Índices &#x1F916;!
+
+
+#### Parte 1
+
+Explorar qué ocurre si usamos en el string **S**: S[0], S[1], S[2], S[3], S[4], S[-1]. ¿Por qué es posible hacer esto?
+
+#### Parte 2
+
+Considere el string **S = 'lima santiago'**. Define la variable **L** igual a la aplicación de split(' '). Explore L[0], L[1], L[2], L[3], L[4], L[-1]. ¿Por qué es posible hacer esto?
+
