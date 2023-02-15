@@ -36,6 +36,8 @@ a transformar el string **S** en un número que indica el número de veces que a
 
 ### Ejercicio 3: Índices &#x1F916;!
 
+Los índices forman una parte esencial de **Python. ** Con respecto a un texto, es natural pensar que está formado por secuencias de elementos (las **palabras**), que a su vez
+están formados por otros elementos (los **caracteres**). El aspecto esencial de estas dos dimensiones de los textos es que los elementos **ESTÁN ORDENADOS.** &#x1F640;!
 
 #### Parte 1
 
