@@ -48,6 +48,7 @@ están formados por otros elementos (los **caracteres**). El aspecto esencial de
 - En una hoja de papel, simule dos códigos: por cada integrante del grupo imprime un caracter del string y un elemento de la lista. Siga el orden de los números asignados. 
 - Ahora, para el string repita el código con una condición: si el caracter es una vocal imprima 'vocal'; en cambio, si el caracter es una consonante imprima 'consonante'
 - ¿Qué podemos concluir?
+- Escriba su código en un jupyter notebook!
 
 #### Parte 2
 
