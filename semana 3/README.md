@@ -36,10 +36,20 @@ a transformar el string **S** en un número que indica el número de veces que a
 
 ### Ejercicio 3: Índices &#x1F916;!
 
-Los índices forman una parte esencial de **Python. ** Con respecto a un texto, es natural pensar que está formado por secuencias de elementos (las **palabras**), que a su vez
+Los índices forman una parte esencial de **Python.** Con respecto a un texto, es natural pensar que está formado por secuencias de elementos (las **palabras**), que a su vez
 están formados por otros elementos (los **caracteres**). El aspecto esencial de estas dos dimensiones de los textos es que los elementos **ESTÁN ORDENADOS.** &#x1F640;!
 
 #### Parte 1
+
+- Formen grupos.
+- Los integrantes de cada grupo deben numerarse, comenzando desde 0.
+- Defina **N** como el número de integrantes del grupo.
+- Defina: (1) un string de largo **N**; y (2) una lista de largo **N.**
+- En una hoja de papel, simule dos códigos: por cada integrante del grupo imprime un caracter del string y un elemento de la lista. Siga el orden de los números asignados. 
+- Ahora, para el string repita el código con una condición: si el caracter es una vocal imprima 'vocal'; en cambio, si el caracter es una consonante imprima 'consonante'
+- ¿Qué podemos concluir?
+
+#### Parte 2
 
 Explorar qué ocurre si usamos en el string **S**: S[0], S[1], S[2], S[3], S[4], S[-1]. ¿Por qué es posible hacer esto? Pruebe:
 
@@ -47,7 +57,7 @@ Explorar qué ocurre si usamos en el string **S**: S[0], S[1], S[2], S[3], S[4],
 - Ejecutar S[0], luego S[1] y así sucesivamente. ¿Qué puede observar?
 - Definir un string vacío ''. Con esto, reconstruya **S** usando los índices. 
 
-#### Parte 2
+#### Parte 3
 
 Considere el string **S = 'lima santiago'**. Define la variable **L** igual a la aplicación de split(' '). Explore L[0], L[1], L[2], L[3], L[4], L[-1]. ¿Por qué es posible hacer esto? 
 Definir una lista vacía []. Con esto, reconstruya **L** usando los índices. 
